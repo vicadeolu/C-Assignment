@@ -1,0 +1,14 @@
+C:\Users\victor\Desktop\OPtimusC#\C-Assignment\Assignment2\Assignment2\bin\Debug\net8.0\AssignmentTwoA.exe
+C:\Users\victor\Desktop\OPtimusC#\C-Assignment\Assignment2\Assignment2\bin\Debug\net8.0\AssignmentTwoA.deps.json
+C:\Users\victor\Desktop\OPtimusC#\C-Assignment\Assignment2\Assignment2\bin\Debug\net8.0\AssignmentTwoA.runtimeconfig.json
+C:\Users\victor\Desktop\OPtimusC#\C-Assignment\Assignment2\Assignment2\bin\Debug\net8.0\AssignmentTwoA.dll
+C:\Users\victor\Desktop\OPtimusC#\C-Assignment\Assignment2\Assignment2\bin\Debug\net8.0\AssignmentTwoA.pdb
+C:\Users\victor\Desktop\OPtimusC#\C-Assignment\Assignment2\Assignment2\obj\Debug\net8.0\AssignmentTwoA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victor\Desktop\OPtimusC#\C-Assignment\Assignment2\Assignment2\obj\Debug\net8.0\AssignmentTwoA.AssemblyInfoInputs.cache
+C:\Users\victor\Desktop\OPtimusC#\C-Assignment\Assignment2\Assignment2\obj\Debug\net8.0\AssignmentTwoA.AssemblyInfo.cs
+C:\Users\victor\Desktop\OPtimusC#\C-Assignment\Assignment2\Assignment2\obj\Debug\net8.0\AssignmentTwoA.csproj.CoreCompileInputs.cache
+C:\Users\victor\Desktop\OPtimusC#\C-Assignment\Assignment2\Assignment2\obj\Debug\net8.0\AssignmentTwoA.dll
+C:\Users\victor\Desktop\OPtimusC#\C-Assignment\Assignment2\Assignment2\obj\Debug\net8.0\refint\AssignmentTwoA.dll
+C:\Users\victor\Desktop\OPtimusC#\C-Assignment\Assignment2\Assignment2\obj\Debug\net8.0\AssignmentTwoA.pdb
+C:\Users\victor\Desktop\OPtimusC#\C-Assignment\Assignment2\Assignment2\obj\Debug\net8.0\AssignmentTwoA.genruntimeconfig.cache
+C:\Users\victor\Desktop\OPtimusC#\C-Assignment\Assignment2\Assignment2\obj\Debug\net8.0\ref\AssignmentTwoA.dll

@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\victor\\Desktop\\OPtimusC#\\C-Assignment\\DBconnection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A583169-0D7F-45BF-919C-5C6A2B316CCB}|DBconnection\\DBconnection.csproj|c:\\users\\victor\\desktop\\optimusc#\\c-assignment\\dbconnection\\dbconnection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A583169-0D7F-45BF-919C-5C6A2B316CCB}|DBconnection\\DBconnection.csproj|solutionrelative:dbconnection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A583169-0D7F-45BF-919C-5C6A2B316CCB}|DBconnection\\DBconnection.csproj|c:\\users\\victor\\desktop\\optimusc#\\c-assignment\\dbconnection\\dbconnection\\dbcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A583169-0D7F-45BF-919C-5C6A2B316CCB}|DBconnection\\DBconnection.csproj|solutionrelative:dbconnection\\dbcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A583169-0D7F-45BF-919C-5C6A2B316CCB}|DBconnection\\DBconnection.csproj|c:\\users\\victor\\desktop\\optimusc#\\c-assignment\\dbconnection\\dbconnection\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A583169-0D7F-45BF-919C-5C6A2B316CCB}|DBconnection\\DBconnection.csproj|solutionrelative:dbconnection\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A583169-0D7F-45BF-919C-5C6A2B316CCB}|DBconnection\\DBconnection.csproj|c:\\users\\victor\\desktop\\optimusc#\\c-assignment\\dbconnection\\dbconnection\\sqlconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A583169-0D7F-45BF-919C-5C6A2B316CCB}|DBconnection\\DBconnection.csproj|solutionrelative:dbconnection\\sqlconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A583169-0D7F-45BF-919C-5C6A2B316CCB}|DBconnection\\DBconnection.csproj|c:\\users\\victor\\desktop\\optimusc#\\c-assignment\\dbconnection\\dbconnection\\oracleconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A583169-0D7F-45BF-919C-5C6A2B316CCB}|DBconnection\\DBconnection.csproj|solutionrelative:dbconnection\\oracleconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SqlConnection.cs",
+              "DocumentMoniker": "C:\\Users\\victor\\Desktop\\OPtimusC#\\C-Assignment\\DBconnection\\DBconnection\\SqlConnection.cs",
+              "RelativeDocumentMoniker": "DBconnection\\SqlConnection.cs",
+              "ToolTip": "C:\\Users\\victor\\Desktop\\OPtimusC#\\C-Assignment\\DBconnection\\DBconnection\\SqlConnection.cs",
+              "RelativeToolTip": "DBconnection\\SqlConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T00:21:13.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OracleConnection.cs",
+              "DocumentMoniker": "C:\\Users\\victor\\Desktop\\OPtimusC#\\C-Assignment\\DBconnection\\DBconnection\\OracleConnection.cs",
+              "RelativeDocumentMoniker": "DBconnection\\OracleConnection.cs",
+              "ToolTip": "C:\\Users\\victor\\Desktop\\OPtimusC#\\C-Assignment\\DBconnection\\DBconnection\\OracleConnection.cs",
+              "RelativeToolTip": "DBconnection\\OracleConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T00:18:04.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DBCommand.cs",
+              "DocumentMoniker": "C:\\Users\\victor\\Desktop\\OPtimusC#\\C-Assignment\\DBconnection\\DBconnection\\DBCommand.cs",
+              "RelativeDocumentMoniker": "DBconnection\\DBCommand.cs",
+              "ToolTip": "C:\\Users\\victor\\Desktop\\OPtimusC#\\C-Assignment\\DBconnection\\DBconnection\\DBCommand.cs",
+              "RelativeToolTip": "DBconnection\\DBCommand.cs",
+              "ViewState": "AgIAAAgAAAAkZmZmZuYwwBMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T00:12:06.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DBConnection.cs",
+              "DocumentMoniker": "C:\\Users\\victor\\Desktop\\OPtimusC#\\C-Assignment\\DBconnection\\DBconnection\\DBConnection.cs",
+              "RelativeDocumentMoniker": "DBconnection\\DBConnection.cs",
+              "ToolTip": "C:\\Users\\victor\\Desktop\\OPtimusC#\\C-Assignment\\DBconnection\\DBconnection\\DBConnection.cs",
+              "RelativeToolTip": "DBconnection\\DBConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T00:07:28.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\victor\\Desktop\\OPtimusC#\\C-Assignment\\DBconnection\\DBconnection\\Program.cs",
+              "RelativeDocumentMoniker": "DBconnection\\Program.cs",
+              "ToolTip": "C:\\Users\\victor\\Desktop\\OPtimusC#\\C-Assignment\\DBconnection\\DBconnection\\Program.cs",
+              "RelativeToolTip": "DBconnection\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAzczMzMwnwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T00:03:34.062Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

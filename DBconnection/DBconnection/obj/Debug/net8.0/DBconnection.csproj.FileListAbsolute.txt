@@ -1,0 +1,14 @@
+C:\Users\victor\Desktop\OPtimusC#\C-Assignment\DBconnection\DBconnection\obj\Debug\net8.0\DBconnection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victor\Desktop\OPtimusC#\C-Assignment\DBconnection\DBconnection\obj\Debug\net8.0\DBconnection.AssemblyInfoInputs.cache
+C:\Users\victor\Desktop\OPtimusC#\C-Assignment\DBconnection\DBconnection\obj\Debug\net8.0\DBconnection.AssemblyInfo.cs
+C:\Users\victor\Desktop\OPtimusC#\C-Assignment\DBconnection\DBconnection\obj\Debug\net8.0\DBconnection.csproj.CoreCompileInputs.cache
+C:\Users\victor\Desktop\OPtimusC#\C-Assignment\DBconnection\DBconnection\bin\Debug\net8.0\DBconnection.exe
+C:\Users\victor\Desktop\OPtimusC#\C-Assignment\DBconnection\DBconnection\bin\Debug\net8.0\DBconnection.deps.json
+C:\Users\victor\Desktop\OPtimusC#\C-Assignment\DBconnection\DBconnection\bin\Debug\net8.0\DBconnection.runtimeconfig.json
+C:\Users\victor\Desktop\OPtimusC#\C-Assignment\DBconnection\DBconnection\bin\Debug\net8.0\DBconnection.dll
+C:\Users\victor\Desktop\OPtimusC#\C-Assignment\DBconnection\DBconnection\bin\Debug\net8.0\DBconnection.pdb
+C:\Users\victor\Desktop\OPtimusC#\C-Assignment\DBconnection\DBconnection\obj\Debug\net8.0\DBconnection.dll
+C:\Users\victor\Desktop\OPtimusC#\C-Assignment\DBconnection\DBconnection\obj\Debug\net8.0\refint\DBconnection.dll
+C:\Users\victor\Desktop\OPtimusC#\C-Assignment\DBconnection\DBconnection\obj\Debug\net8.0\DBconnection.pdb
+C:\Users\victor\Desktop\OPtimusC#\C-Assignment\DBconnection\DBconnection\obj\Debug\net8.0\DBconnection.genruntimeconfig.cache
+C:\Users\victor\Desktop\OPtimusC#\C-Assignment\DBconnection\DBconnection\obj\Debug\net8.0\ref\DBconnection.dll

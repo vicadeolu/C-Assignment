@@ -1,0 +1,462 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\victor\\Desktop\\OPtimusC#\\C-Assignment\\Assignment2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75BCBADE-A1E3-4689-899D-DFEFED15243A}|AssignmentTwoE\\AssignmentTwoE.csproj|c:\\users\\victor\\desktop\\optimusc#\\c-assignment\\assignment2\\assignmenttwoe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75BCBADE-A1E3-4689-899D-DFEFED15243A}|AssignmentTwoE\\AssignmentTwoE.csproj|solutionrelative:assignmenttwoe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75BCBADE-A1E3-4689-899D-DFEFED15243A}|AssignmentTwoE\\AssignmentTwoE.csproj|c:\\users\\victor\\desktop\\optimusc#\\c-assignment\\assignment2\\assignmenttwoe\\longestwordfinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75BCBADE-A1E3-4689-899D-DFEFED15243A}|AssignmentTwoE\\AssignmentTwoE.csproj|solutionrelative:assignmenttwoe\\longestwordfinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75BCBADE-A1E3-4689-899D-DFEFED15243A}|AssignmentTwoE\\AssignmentTwoE.csproj|c:\\users\\victor\\desktop\\optimusc#\\c-assignment\\assignment2\\assignmenttwoe\\wordcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75BCBADE-A1E3-4689-899D-DFEFED15243A}|AssignmentTwoE\\AssignmentTwoE.csproj|solutionrelative:assignmenttwoe\\wordcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCE7168D-C45F-49DF-9290-3007ED4C302C}|AssignmentTwoD\\AssignmentTwoD.csproj|c:\\users\\victor\\desktop\\optimusc#\\c-assignment\\assignment2\\assignmenttwod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCE7168D-C45F-49DF-9290-3007ED4C302C}|AssignmentTwoD\\AssignmentTwoD.csproj|solutionrelative:assignmenttwod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCE7168D-C45F-49DF-9290-3007ED4C302C}|AssignmentTwoD\\AssignmentTwoD.csproj|c:\\users\\victor\\desktop\\optimusc#\\c-assignment\\assignment2\\assignmenttwod\\vowelcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCE7168D-C45F-49DF-9290-3007ED4C302C}|AssignmentTwoD\\AssignmentTwoD.csproj|solutionrelative:assignmenttwod\\vowelcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCE7168D-C45F-49DF-9290-3007ED4C302C}|AssignmentTwoD\\AssignmentTwoD.csproj|c:\\users\\victor\\desktop\\optimusc#\\c-assignment\\assignment2\\assignmenttwod\\pascalcaseconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCE7168D-C45F-49DF-9290-3007ED4C302C}|AssignmentTwoD\\AssignmentTwoD.csproj|solutionrelative:assignmenttwod\\pascalcaseconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCE7168D-C45F-49DF-9290-3007ED4C302C}|AssignmentTwoD\\AssignmentTwoD.csproj|c:\\users\\victor\\desktop\\optimusc#\\c-assignment\\assignment2\\assignmenttwod\\timevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCE7168D-C45F-49DF-9290-3007ED4C302C}|AssignmentTwoD\\AssignmentTwoD.csproj|solutionrelative:assignmenttwod\\timevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCE7168D-C45F-49DF-9290-3007ED4C302C}|AssignmentTwoD\\AssignmentTwoD.csproj|c:\\users\\victor\\desktop\\optimusc#\\c-assignment\\assignment2\\assignmenttwod\\duplicatechecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCE7168D-C45F-49DF-9290-3007ED4C302C}|AssignmentTwoD\\AssignmentTwoD.csproj|solutionrelative:assignmenttwod\\duplicatechecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCE7168D-C45F-49DF-9290-3007ED4C302C}|AssignmentTwoD\\AssignmentTwoD.csproj|c:\\users\\victor\\desktop\\optimusc#\\c-assignment\\assignment2\\assignmenttwod\\consecutivedetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCE7168D-C45F-49DF-9290-3007ED4C302C}|AssignmentTwoD\\AssignmentTwoD.csproj|solutionrelative:assignmenttwod\\consecutivedetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C654E456-CA20-4F21-B974-A5E712C0FF85}|AssignmentThree\\AssignmentThree.csproj|c:\\users\\victor\\desktop\\optimusc#\\c-assignment\\assignment2\\assignmentthree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C654E456-CA20-4F21-B974-A5E712C0FF85}|AssignmentThree\\AssignmentThree.csproj|solutionrelative:assignmentthree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C654E456-CA20-4F21-B974-A5E712C0FF85}|AssignmentThree\\AssignmentTwoC.csproj|c:\\users\\victor\\desktop\\optimusc#\\c-assignment\\assignment2\\assignmentthree\\smallestnumberfinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C654E456-CA20-4F21-B974-A5E712C0FF85}|AssignmentThree\\AssignmentTwoC.csproj|solutionrelative:assignmentthree\\smallestnumberfinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C654E456-CA20-4F21-B974-A5E712C0FF85}|AssignmentThree\\AssignmentTwoC.csproj|c:\\users\\victor\\desktop\\optimusc#\\c-assignment\\assignment2\\assignmentthree\\uniquenumlister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C654E456-CA20-4F21-B974-A5E712C0FF85}|AssignmentThree\\AssignmentTwoC.csproj|solutionrelative:assignmentthree\\uniquenumlister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C654E456-CA20-4F21-B974-A5E712C0FF85}|AssignmentThree\\AssignmentTwoC.csproj|c:\\users\\victor\\desktop\\optimusc#\\c-assignment\\assignment2\\assignmentthree\\uniquenumcollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C654E456-CA20-4F21-B974-A5E712C0FF85}|AssignmentThree\\AssignmentTwoC.csproj|solutionrelative:assignmentthree\\uniquenumcollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C654E456-CA20-4F21-B974-A5E712C0FF85}|AssignmentThree\\AssignmentTwoC.csproj|c:\\users\\victor\\desktop\\optimusc#\\c-assignment\\assignment2\\assignmentthree\\namereverser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C654E456-CA20-4F21-B974-A5E712C0FF85}|AssignmentThree\\AssignmentTwoC.csproj|solutionrelative:assignmentthree\\namereverser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C654E456-CA20-4F21-B974-A5E712C0FF85}|AssignmentThree\\AssignmentTwoC.csproj|c:\\users\\victor\\desktop\\optimusc#\\c-assignment\\assignment2\\assignmentthree\\facebooklikes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C654E456-CA20-4F21-B974-A5E712C0FF85}|AssignmentThree\\AssignmentTwoC.csproj|solutionrelative:assignmentthree\\facebooklikes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B94FB8AC-73C5-4DD7-922B-7D187854924E}|Assignment2B\\Assignment2B.csproj|c:\\users\\victor\\desktop\\optimusc#\\c-assignment\\assignment2\\assignment2b\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B94FB8AC-73C5-4DD7-922B-7D187854924E}|Assignment2B\\Assignment2B.csproj|solutionrelative:assignment2b\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B94FB8AC-73C5-4DD7-922B-7D187854924E}|Assignment2B\\AssignmentTwoB.csproj|c:\\users\\victor\\desktop\\optimusc#\\c-assignment\\assignment2\\assignment2b\\maxnumberinseries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B94FB8AC-73C5-4DD7-922B-7D187854924E}|Assignment2B\\AssignmentTwoB.csproj|solutionrelative:assignment2b\\maxnumberinseries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B94FB8AC-73C5-4DD7-922B-7D187854924E}|Assignment2B\\AssignmentTwoB.csproj|c:\\users\\victor\\desktop\\optimusc#\\c-assignment\\assignment2\\assignment2b\\guessnow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B94FB8AC-73C5-4DD7-922B-7D187854924E}|Assignment2B\\AssignmentTwoB.csproj|solutionrelative:assignment2b\\guessnow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B94FB8AC-73C5-4DD7-922B-7D187854924E}|Assignment2B\\AssignmentTwoB.csproj|c:\\users\\victor\\desktop\\optimusc#\\c-assignment\\assignment2\\assignment2b\\factorialcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B94FB8AC-73C5-4DD7-922B-7D187854924E}|Assignment2B\\AssignmentTwoB.csproj|solutionrelative:assignment2b\\factorialcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B94FB8AC-73C5-4DD7-922B-7D187854924E}|Assignment2B\\AssignmentTwoB.csproj|c:\\users\\victor\\desktop\\optimusc#\\c-assignment\\assignment2\\assignment2b\\numbersummer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B94FB8AC-73C5-4DD7-922B-7D187854924E}|Assignment2B\\AssignmentTwoB.csproj|solutionrelative:assignment2b\\numbersummer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B94FB8AC-73C5-4DD7-922B-7D187854924E}|Assignment2B\\AssignmentTwoB.csproj|c:\\users\\victor\\desktop\\optimusc#\\c-assignment\\assignment2\\assignment2b\\counter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B94FB8AC-73C5-4DD7-922B-7D187854924E}|Assignment2B\\AssignmentTwoB.csproj|solutionrelative:assignment2b\\counter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F643BFE-1281-4580-95E6-38C17E843BC3}|Assignment2\\Assignment2.csproj|c:\\users\\victor\\desktop\\optimusc#\\c-assignment\\assignment2\\assignment2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F643BFE-1281-4580-95E6-38C17E843BC3}|Assignment2\\Assignment2.csproj|solutionrelative:assignment2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F643BFE-1281-4580-95E6-38C17E843BC3}|Assignment2\\AssignmentTwoA.csproj|c:\\users\\victor\\desktop\\optimusc#\\c-assignment\\assignment2\\assignment2\\speedcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F643BFE-1281-4580-95E6-38C17E843BC3}|Assignment2\\AssignmentTwoA.csproj|solutionrelative:assignment2\\speedcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F643BFE-1281-4580-95E6-38C17E843BC3}|Assignment2\\AssignmentTwoA.csproj|c:\\users\\victor\\desktop\\optimusc#\\c-assignment\\assignment2\\assignment2\\shapedetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F643BFE-1281-4580-95E6-38C17E843BC3}|Assignment2\\AssignmentTwoA.csproj|solutionrelative:assignment2\\shapedetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F643BFE-1281-4580-95E6-38C17E843BC3}|Assignment2\\AssignmentTwoA.csproj|c:\\users\\victor\\desktop\\optimusc#\\c-assignment\\assignment2\\assignment2\\maxnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F643BFE-1281-4580-95E6-38C17E843BC3}|Assignment2\\AssignmentTwoA.csproj|solutionrelative:assignment2\\maxnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F643BFE-1281-4580-95E6-38C17E843BC3}|Assignment2\\AssignmentTwoA.csproj|c:\\users\\victor\\desktop\\optimusc#\\c-assignment\\assignment2\\assignment2\\validatenumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F643BFE-1281-4580-95E6-38C17E843BC3}|Assignment2\\AssignmentTwoA.csproj|solutionrelative:assignment2\\validatenumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LongestWordFinder.cs",
+              "DocumentMoniker": "C:\\Users\\victor\\Desktop\\OPtimusC#\\C-Assignment\\Assignment2\\AssignmentTwoE\\LongestWordFinder.cs",
+              "RelativeDocumentMoniker": "AssignmentTwoE\\LongestWordFinder.cs",
+              "ToolTip": "C:\\Users\\victor\\Desktop\\OPtimusC#\\C-Assignment\\Assignment2\\AssignmentTwoE\\LongestWordFinder.cs",
+              "RelativeToolTip": "AssignmentTwoE\\LongestWordFinder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T10:15:08.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WordCounter.cs",
+              "DocumentMoniker": "C:\\Users\\victor\\Desktop\\OPtimusC#\\C-Assignment\\Assignment2\\AssignmentTwoE\\WordCounter.cs",
+              "RelativeDocumentMoniker": "AssignmentTwoE\\WordCounter.cs",
+              "ToolTip": "C:\\Users\\victor\\Desktop\\OPtimusC#\\C-Assignment\\Assignment2\\AssignmentTwoE\\WordCounter.cs",
+              "RelativeToolTip": "AssignmentTwoE\\WordCounter.cs",
+              "ViewState": "AgIAAAIAAABAZmZmZmYkwA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T10:14:20.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\victor\\Desktop\\OPtimusC#\\C-Assignment\\Assignment2\\AssignmentTwoE\\Program.cs",
+              "RelativeDocumentMoniker": "AssignmentTwoE\\Program.cs",
+              "ToolTip": "C:\\Users\\victor\\Desktop\\OPtimusC#\\C-Assignment\\Assignment2\\AssignmentTwoE\\Program.cs",
+              "RelativeToolTip": "AssignmentTwoE\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T10:10:16.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VowelCounter.cs",
+              "DocumentMoniker": "C:\\Users\\victor\\Desktop\\OPtimusC#\\C-Assignment\\Assignment2\\AssignmentTwoD\\VowelCounter.cs",
+              "RelativeDocumentMoniker": "AssignmentTwoD\\VowelCounter.cs",
+              "ToolTip": "C:\\Users\\victor\\Desktop\\OPtimusC#\\C-Assignment\\Assignment2\\AssignmentTwoD\\VowelCounter.cs",
+              "RelativeToolTip": "AssignmentTwoD\\VowelCounter.cs",
+              "ViewState": "AgIAAAYAAACAzMzMzMwowA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T10:08:17.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PascalCaseConverter.cs",
+              "DocumentMoniker": "C:\\Users\\victor\\Desktop\\OPtimusC#\\C-Assignment\\Assignment2\\AssignmentTwoD\\PascalCaseConverter.cs",
+              "RelativeDocumentMoniker": "AssignmentTwoD\\PascalCaseConverter.cs",
+              "ToolTip": "C:\\Users\\victor\\Desktop\\OPtimusC#\\C-Assignment\\Assignment2\\AssignmentTwoD\\PascalCaseConverter.cs",
+              "RelativeToolTip": "AssignmentTwoD\\PascalCaseConverter.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T10:05:39.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TimeValidator.cs",
+              "DocumentMoniker": "C:\\Users\\victor\\Desktop\\OPtimusC#\\C-Assignment\\Assignment2\\AssignmentTwoD\\TimeValidator.cs",
+              "RelativeDocumentMoniker": "AssignmentTwoD\\TimeValidator.cs",
+              "ToolTip": "C:\\Users\\victor\\Desktop\\OPtimusC#\\C-Assignment\\Assignment2\\AssignmentTwoD\\TimeValidator.cs",
+              "RelativeToolTip": "AssignmentTwoD\\TimeValidator.cs",
+              "ViewState": "AgIAAAUAAADQMjMzMzMfwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T10:04:58.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DuplicateChecker.cs",
+              "DocumentMoniker": "C:\\Users\\victor\\Desktop\\OPtimusC#\\C-Assignment\\Assignment2\\AssignmentTwoD\\DuplicateChecker.cs",
+              "RelativeDocumentMoniker": "AssignmentTwoD\\DuplicateChecker.cs",
+              "ToolTip": "C:\\Users\\victor\\Desktop\\OPtimusC#\\C-Assignment\\Assignment2\\AssignmentTwoD\\DuplicateChecker.cs",
+              "RelativeToolTip": "AssignmentTwoD\\DuplicateChecker.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T10:02:43.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConsecutiveDetector.cs",
+              "DocumentMoniker": "C:\\Users\\victor\\Desktop\\OPtimusC#\\C-Assignment\\Assignment2\\AssignmentTwoD\\ConsecutiveDetector.cs",
+              "RelativeDocumentMoniker": "AssignmentTwoD\\ConsecutiveDetector.cs",
+              "ToolTip": "C:\\Users\\victor\\Desktop\\OPtimusC#\\C-Assignment\\Assignment2\\AssignmentTwoD\\ConsecutiveDetector.cs",
+              "RelativeToolTip": "AssignmentTwoD\\ConsecutiveDetector.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T10:00:20.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\victor\\Desktop\\OPtimusC#\\C-Assignment\\Assignment2\\AssignmentTwoD\\Program.cs",
+              "RelativeDocumentMoniker": "AssignmentTwoD\\Program.cs",
+              "ToolTip": "C:\\Users\\victor\\Desktop\\OPtimusC#\\C-Assignment\\Assignment2\\AssignmentTwoD\\Program.cs",
+              "RelativeToolTip": "AssignmentTwoD\\Program.cs",
+              "ViewState": "AgIAABgAAAAgZWZmZmYjwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T09:58:06.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SmallestNumberFinder.cs",
+              "DocumentMoniker": "C:\\Users\\victor\\Desktop\\OPtimusC#\\C-Assignment\\Assignment2\\AssignmentThree\\SmallestNumberFinder.cs",
+              "RelativeDocumentMoniker": "AssignmentThree\\SmallestNumberFinder.cs",
+              "ToolTip": "C:\\Users\\victor\\Desktop\\OPtimusC#\\C-Assignment\\Assignment2\\AssignmentThree\\SmallestNumberFinder.cs",
+              "RelativeToolTip": "AssignmentThree\\SmallestNumberFinder.cs",
+              "ViewState": "AgIAAAQAAAD4MjMzM7MswBEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T09:53:42.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UniqueNumLister.cs",
+              "DocumentMoniker": "C:\\Users\\victor\\Desktop\\OPtimusC#\\C-Assignment\\Assignment2\\AssignmentThree\\UniqueNumLister.cs",
+              "RelativeDocumentMoniker": "AssignmentThree\\UniqueNumLister.cs",
+              "ToolTip": "C:\\Users\\victor\\Desktop\\OPtimusC#\\C-Assignment\\Assignment2\\AssignmentThree\\UniqueNumLister.cs",
+              "RelativeToolTip": "AssignmentThree\\UniqueNumLister.cs",
+              "ViewState": "AgIAAAIAAACgZWZmZmYlwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T09:52:52.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UniqueNumCollector.cs",
+              "DocumentMoniker": "C:\\Users\\victor\\Desktop\\OPtimusC#\\C-Assignment\\Assignment2\\AssignmentThree\\UniqueNumCollector.cs",
+              "RelativeDocumentMoniker": "AssignmentThree\\UniqueNumCollector.cs",
+              "ToolTip": "C:\\Users\\victor\\Desktop\\OPtimusC#\\C-Assignment\\Assignment2\\AssignmentThree\\UniqueNumCollector.cs",
+              "RelativeToolTip": "AssignmentThree\\UniqueNumCollector.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T09:51:17.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NameReverser.cs",
+              "DocumentMoniker": "C:\\Users\\victor\\Desktop\\OPtimusC#\\C-Assignment\\Assignment2\\AssignmentThree\\NameReverser.cs",
+              "RelativeDocumentMoniker": "AssignmentThree\\NameReverser.cs",
+              "ToolTip": "C:\\Users\\victor\\Desktop\\OPtimusC#\\C-Assignment\\Assignment2\\AssignmentThree\\NameReverser.cs",
+              "RelativeToolTip": "AssignmentThree\\NameReverser.cs",
+              "ViewState": "AgIAAAUAAABAMTMzMzMdwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T09:50:09.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FaceBookLikes.cs",
+              "DocumentMoniker": "C:\\Users\\victor\\Desktop\\OPtimusC#\\C-Assignment\\Assignment2\\AssignmentThree\\FaceBookLikes.cs",
+              "RelativeDocumentMoniker": "AssignmentThree\\FaceBookLikes.cs",
+              "ToolTip": "C:\\Users\\victor\\Desktop\\OPtimusC#\\C-Assignment\\Assignment2\\AssignmentThree\\FaceBookLikes.cs",
+              "RelativeToolTip": "AssignmentThree\\FaceBookLikes.cs",
+              "ViewState": "AgIAACEAAAAgmZmZmZkuwAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T09:44:22.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\victor\\Desktop\\OPtimusC#\\C-Assignment\\Assignment2\\AssignmentThree\\Program.cs",
+              "RelativeDocumentMoniker": "AssignmentThree\\Program.cs",
+              "ToolTip": "C:\\Users\\victor\\Desktop\\OPtimusC#\\C-Assignment\\Assignment2\\AssignmentThree\\Program.cs",
+              "RelativeToolTip": "AssignmentThree\\Program.cs",
+              "ViewState": "AgIAABQAAAAAyszMzMwYwCEAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T09:35:24.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MaxNumberInSeries.cs",
+              "DocumentMoniker": "C:\\Users\\victor\\Desktop\\OPtimusC#\\C-Assignment\\Assignment2\\Assignment2B\\MaxNumberInSeries.cs",
+              "RelativeDocumentMoniker": "Assignment2B\\MaxNumberInSeries.cs",
+              "ToolTip": "C:\\Users\\victor\\Desktop\\OPtimusC#\\C-Assignment\\Assignment2\\Assignment2B\\MaxNumberInSeries.cs",
+              "RelativeToolTip": "Assignment2B\\MaxNumberInSeries.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T09:28:11.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GuessNow.cs",
+              "DocumentMoniker": "C:\\Users\\victor\\Desktop\\OPtimusC#\\C-Assignment\\Assignment2\\Assignment2B\\GuessNow.cs",
+              "RelativeDocumentMoniker": "Assignment2B\\GuessNow.cs",
+              "ToolTip": "C:\\Users\\victor\\Desktop\\OPtimusC#\\C-Assignment\\Assignment2\\Assignment2B\\GuessNow.cs",
+              "RelativeToolTip": "Assignment2B\\GuessNow.cs",
+              "ViewState": "AgIAAAUAAACAZmZmZmYkwB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T09:26:35.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FactorialCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\victor\\Desktop\\OPtimusC#\\C-Assignment\\Assignment2\\Assignment2B\\FactorialCalculator.cs",
+              "RelativeDocumentMoniker": "Assignment2B\\FactorialCalculator.cs",
+              "ToolTip": "C:\\Users\\victor\\Desktop\\OPtimusC#\\C-Assignment\\Assignment2\\Assignment2B\\FactorialCalculator.cs",
+              "RelativeToolTip": "Assignment2B\\FactorialCalculator.cs",
+              "ViewState": "AgIAAAcAAABQZmZmZmYjwAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T09:24:19.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "NumberSummer.cs",
+              "DocumentMoniker": "C:\\Users\\victor\\Desktop\\OPtimusC#\\C-Assignment\\Assignment2\\Assignment2B\\NumberSummer.cs",
+              "RelativeDocumentMoniker": "Assignment2B\\NumberSummer.cs",
+              "ToolTip": "C:\\Users\\victor\\Desktop\\OPtimusC#\\C-Assignment\\Assignment2\\Assignment2B\\NumberSummer.cs",
+              "RelativeToolTip": "Assignment2B\\NumberSummer.cs",
+              "ViewState": "AgIAAAMAAABAmJmZmRkYwBUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T09:17:24.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Counter.cs",
+              "DocumentMoniker": "C:\\Users\\victor\\Desktop\\OPtimusC#\\C-Assignment\\Assignment2\\Assignment2B\\Counter.cs",
+              "RelativeDocumentMoniker": "Assignment2B\\Counter.cs",
+              "ToolTip": "C:\\Users\\victor\\Desktop\\OPtimusC#\\C-Assignment\\Assignment2\\Assignment2B\\Counter.cs",
+              "RelativeToolTip": "Assignment2B\\Counter.cs",
+              "ViewState": "AgIAAAgAAACg//////85wBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T09:16:09.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\victor\\Desktop\\OPtimusC#\\C-Assignment\\Assignment2\\Assignment2B\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment2B\\Program.cs",
+              "ToolTip": "C:\\Users\\victor\\Desktop\\OPtimusC#\\C-Assignment\\Assignment2\\Assignment2B\\Program.cs",
+              "RelativeToolTip": "Assignment2B\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAnJmZmZnxvzEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T09:12:17.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SpeedCamera.cs",
+              "DocumentMoniker": "C:\\Users\\victor\\Desktop\\OPtimusC#\\C-Assignment\\Assignment2\\Assignment2\\SpeedCamera.cs",
+              "RelativeDocumentMoniker": "Assignment2\\SpeedCamera.cs",
+              "ToolTip": "C:\\Users\\victor\\Desktop\\OPtimusC#\\C-Assignment\\Assignment2\\Assignment2\\SpeedCamera.cs",
+              "RelativeToolTip": "Assignment2\\SpeedCamera.cs",
+              "ViewState": "AgIAAAkAAAAAZ2ZmZmYCwB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T09:10:07.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ShapeDetector.cs",
+              "DocumentMoniker": "C:\\Users\\victor\\Desktop\\OPtimusC#\\C-Assignment\\Assignment2\\Assignment2\\ShapeDetector.cs",
+              "RelativeDocumentMoniker": "Assignment2\\ShapeDetector.cs",
+              "ToolTip": "C:\\Users\\victor\\Desktop\\OPtimusC#\\C-Assignment\\Assignment2\\Assignment2\\ShapeDetector.cs",
+              "RelativeToolTip": "Assignment2\\ShapeDetector.cs",
+              "ViewState": "AgIAAAQAAAAAMzMzMzMrwBEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T08:48:36.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MaxNumber.cs",
+              "DocumentMoniker": "C:\\Users\\victor\\Desktop\\OPtimusC#\\C-Assignment\\Assignment2\\Assignment2\\MaxNumber.cs",
+              "RelativeDocumentMoniker": "Assignment2\\MaxNumber.cs",
+              "ToolTip": "C:\\Users\\victor\\Desktop\\OPtimusC#\\C-Assignment\\Assignment2\\Assignment2\\MaxNumber.cs",
+              "RelativeToolTip": "Assignment2\\MaxNumber.cs",
+              "ViewState": "AgIAAAEAAAAIAAAAAAAUwAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T08:34:40.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ValidateNumbers.cs",
+              "DocumentMoniker": "C:\\Users\\victor\\Desktop\\OPtimusC#\\C-Assignment\\Assignment2\\Assignment2\\ValidateNumbers.cs",
+              "RelativeDocumentMoniker": "Assignment2\\ValidateNumbers.cs",
+              "ToolTip": "C:\\Users\\victor\\Desktop\\OPtimusC#\\C-Assignment\\Assignment2\\Assignment2\\ValidateNumbers.cs",
+              "RelativeToolTip": "Assignment2\\ValidateNumbers.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAABgPREAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T08:22:06.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\victor\\Desktop\\OPtimusC#\\C-Assignment\\Assignment2\\Assignment2\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment2\\Program.cs",
+              "ToolTip": "C:\\Users\\victor\\Desktop\\OPtimusC#\\C-Assignment\\Assignment2\\Assignment2\\Program.cs",
+              "RelativeToolTip": "Assignment2\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAqwDwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T08:01:29.26Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
