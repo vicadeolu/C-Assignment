@@ -74,7 +74,8 @@ namespace BusinessLogicLayer.Services
                     Content = p.Content,
                     AuthorId = p.AuthorId,
                     CreatedAt = p.CreatedAt,
-                    UpdatedAt = p.UpdatedAt
+                    UpdatedAt = p.UpdatedAt,
+                    TagId = p.TagId 
                 })
                 .ToList(); // Convert to List
 

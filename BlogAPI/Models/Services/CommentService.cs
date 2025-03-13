@@ -20,7 +20,27 @@ namespace BusinessLogicLayer.Services
             _commentRepository = commentRepository;
 
         }
-        public Comments? CreateComment(CreateCommentRequestDto comment, out string message)
+        //public Comments? CreateComment(CreateCommentRequestDto comment, out string message)
+        //{
+        //    if (string.IsNullOrWhiteSpace(comment.Content))
+        //    {
+        //        message = "Comment content cannot be empty.";
+        //        return null;
+        //    }
+        //    var newComment = new Comments
+        //    {
+        //        Content = comment.Content,
+        //        PostId = comment.PostId,
+        //        UserId = comment.UserId,
+        //        CreatedAt = DateTime.UtcNow
+        //    };
+
+        //    var createdComment = _commentRepository.Create(newComment);
+        //    message = "Comment created successfully.";
+        //    return createdComment;
+        //}
+
+        public Comments? CreateComment(Comments comment, out string message)
         {
             if (string.IsNullOrWhiteSpace(comment.Content))
             {
@@ -88,7 +108,35 @@ namespace BusinessLogicLayer.Services
             return comments;
         }
 
-        public Comments? UpdateComment(UpdateCommentRequestDto comment, out string message)
+        //public Comments? UpdateComment(UpdateCommentRequestDto comment, out string message)
+        //{
+        //    var existingComment = _commentRepository.Get(comment.Id);
+        //    if (existingComment == null)
+        //    {
+        //        message = "Comment not found.";
+        //        return null;
+        //    }
+
+        //    if (string.IsNullOrWhiteSpace(comment.Content))
+        //    {
+        //        message = "Comment content cannot be empty.";
+        //        return null;
+        //    }
+
+        //    existingComment.Content = comment.Content;
+        //    var updatedComment = _commentRepository.Update(existingComment);
+
+        //    if (updatedComment == null)
+        //    {
+        //        message = "Failed to update comment.";
+        //        return null;
+        //    }
+
+        //    message = "Comment updated successfully.";
+        //    return updatedComment;
+        //}
+
+        public Comments? UpdateComment(Comments comment, out string message)
         {
             var existingComment = _commentRepository.Get(comment.Id);
             if (existingComment == null)

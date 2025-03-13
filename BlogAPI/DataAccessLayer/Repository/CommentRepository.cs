@@ -9,7 +9,7 @@ using Domain.Models;
 
 namespace DataAccessLayer.Repository
 {
-    public class CommentRepository
+    public class CommentRepository : ICommentRepository
     {
         private readonly ApplicationDBContext _context;
 
@@ -64,5 +64,9 @@ namespace DataAccessLayer.Repository
             return existingComment;
         }
 
+        public List<Comments> Get()
+        {
+            return _context.Comments.ToList();
+        }
     }
 }

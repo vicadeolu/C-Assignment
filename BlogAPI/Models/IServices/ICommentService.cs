@@ -18,10 +18,10 @@ namespace BusinessLogicLayer.IServices
             CommentDto? GetCommentById(int commentId);
 
             // Create a new comment
-            Comments? CreateComment(CreateCommentRequestDto comment, out string message);
+            Comments? CreateComment(Comments comment, out string message);
 
             // Update an existing comment
-            Comments? UpdateComment(UpdateCommentRequestDto comment, out string message);
+            Comments? UpdateComment(Comments comment, out string message);
 
             // Delete a comment by its ID
             bool DeleteComment(int commentId, out string message);

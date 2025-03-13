@@ -38,6 +38,12 @@ namespace DataAccessLayer.Repository
 
         BlogPost IBlogPostRepository.CreateBlogPost(BlogPost blogPost)
         {
+            bool tagExists = _applicationDbContext.Tags.Any(t => t.Id == blogPost.TagId);
+
+            if (!tagExists)
+            {
+                return null; // Avoid inserting if the Tag doesn't exist
+            }
             _applicationDbContext.BlogPosts.Add(blogPost);
             _applicationDbContext.SaveChanges();
             return blogPost;

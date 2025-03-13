@@ -10,7 +10,6 @@ namespace Domain.Models
     public class BaseModel
     {
         public int Id { get; set; }
-        public string Name { get; set; }
         public DateTime CreatedAt { get; set; }
         public DateTime UpdatedAt { get; set; } = DateTime.Now;
         public  DateTime DeletedAt { get; set; } = DateTime.Now;

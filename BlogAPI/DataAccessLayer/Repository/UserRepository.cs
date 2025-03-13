@@ -32,7 +32,7 @@ namespace DataAccessLayer.Repository
 
         public Users? Get(int id)
         {
-            throw new NotImplementedException();
+            return _applicationDbContext.Users.Find(id);
         }
 
         public List<Users> GetAllUsers()

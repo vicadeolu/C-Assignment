@@ -11,11 +11,17 @@ namespace Domain.Models
     public class Comments: BaseModel
     {
         public string Content { get; set; }
+
+
         [ForeignKey("BlogPostId")]
         public BlogPost Post { get; set; }
         public int PostId { get; set; }
-        public int UserId { get; set; }
+
+
+       
         [ForeignKey("UserId")]
         public Users Reader { get; set; }
+        public int UserId { get; set; }
+
     }
 }

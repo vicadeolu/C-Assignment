@@ -90,6 +90,70 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "BlogAPI.Controllers.CommentController",
+    "Method": "CreateComment",
+    "RelativePath": "api/Comment/CreateComment",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "commentDto",
+        "Type": "Domain.DTO.CommentDTO.CreateCommentRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BlogAPI.Controllers.CommentController",
+    "Method": "DeleteComment",
+    "RelativePath": "api/Comment/DeleteComment/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BlogAPI.Controllers.CommentController",
+    "Method": "GetCommentById",
+    "RelativePath": "api/Comment/GetCommentById/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BlogAPI.Controllers.CommentController",
+    "Method": "UpdateComment",
+    "RelativePath": "api/Comment/UpdateComment",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "updateCommentDto",
+        "Type": "Domain.DTO.CommentDTO.UpdateCommentRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "BlogAPI.Controllers.LikeController",
     "Method": "GetAllLikes",
     "RelativePath": "api/Like/GetAllLikes",

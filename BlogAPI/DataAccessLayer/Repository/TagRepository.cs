@@ -44,8 +44,13 @@ namespace DataAccessLayer.Repository
 
         public Tags? Get(string name)
         {
-           Tags? tags = _applicationDbContext.Tags.Find(name);
-            return tags == null ? null : tags;
+            if (string.IsNullOrWhiteSpace(name))
+            {
+                throw new ArgumentException("Name cannot be null or empty.", nameof(name));
+            }
+
+            var tags = _applicationDbContext.Tags.FirstOrDefault(t => t.Name == name);
+            return tags;
         }
 
         public Tags? Update(Tags tag)
